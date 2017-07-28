@@ -8,7 +8,6 @@
       "build_source_folder": "cpp_perf_test",
       "build_output_subfolder": "cpp_perf_test",
       "locale": "cs-cz",
-      "version": 0,
       "open_to_public_contributors": false,
       "type_mapping": {
         "Conceptual": "Content",
@@ -17,12 +16,14 @@
       },
       "build_entry_point": "docs",
       "template_folder": "_themes",
-      "is_dynamic_rendering": false
+      "is_dynamic_rendering": false,
+      "version": 0
     }
   ],
   "notification_subscribers": [],
   "branches_to_filter": [],
   "git_repository_url_open_to_public_contributors": "https://github.com/Microsoft/cpp-docs",
+  "continue_with_document_error": true,
   "skip_source_output_uploading": false,
   "dependent_repositories": [
     {

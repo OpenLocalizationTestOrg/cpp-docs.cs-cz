@@ -19,7 +19,8 @@
     }
   ],
   "notification_subscribers": [
-    "xinjiang@microsoft.com"
+    "xinjiang@microsoft.com",
+    "qimu@microsoft.com"
   ],
   "branches_to_filter": [
     "master-sxs"

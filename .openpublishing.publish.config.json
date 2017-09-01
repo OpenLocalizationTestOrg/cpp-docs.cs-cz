@@ -19,7 +19,8 @@
     }
   ],
   "notification_subscribers": [
-    "xinjiang@microsoft.com"
+    "xinjiang@microsoft.com",
+    "qimu@microsoft.com"
   ],
   "branches_to_filter": [],
   "git_repository_url_open_to_public_contributors": "https://github.com/Microsoft/cpp-docs",
